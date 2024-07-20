@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MultiSoftwarePublicAPI.props" />
+</Project>

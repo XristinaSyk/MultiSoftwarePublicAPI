@@ -1,0 +1,12 @@
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\MultiSoftwarePublicAPI
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\MultiSoftwarePublicAPI.dll
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\MultiSoftwarePublicAPI.deps.json
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\MultiSoftwarePublicAPI.runtimeconfig.json
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\MultiSoftwarePublicAPI.pdb
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sykar\OneDrive\Έγγραφα\Accenture_training\project\multisoftware_publicAPI\MultiSoftwarePublicAPI\MultiSoftwarePublicAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
